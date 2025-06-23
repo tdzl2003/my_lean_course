@@ -52,6 +52,8 @@
 
 ## 课程目录
 
+> 建议的阅读顺序：以章节为单位，先读导读->读原书->做原书习题（如果有）->再读补充阅读->再做补充习题
+
 * [环境配置](./lessons/1_environment.md)
 * [Theorem Proving in Lean 4](./lessons/2_theorem_proving_in_lean4.md)
     * 了解到为什么我们认为形式化了的证明就可以认为是正确的。
