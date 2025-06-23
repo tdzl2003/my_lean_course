@@ -45,6 +45,7 @@
 如果一切顺利，并且进度超过我整理学习路径的进度，那么可以继续[Mathematics in Lean](https://leanprover-community.github.io/mathematics_in_lean/index.html)或它的[中文版](https://www.leanprover.cn/math-in-lean-zh/)
 
 > 我推荐先跳过另一本[Functional Programming in Lean](https://lean-lang.org/functional_programming_in_lean/)，这本书虽然包括了一些和证明有关的内容，但更主要是在讨论函数式编程相关的部分。如果是以学会证明为目标，并不一定要读懂这本书。
+> 
 > 如果你打算学习元编程，比如想要自定义tactic 或者做一些其他很酷的事情，那么学习FP是必要的，你可以先读上面这本书，再去读[Metaprogramming in Lean 4](https://leanprover-community.github.io/lean4-metaprogramming-book/main/01_intro.html)
 
 你可以关注我课程的更新进度，以及看看我补充的一些信息。
