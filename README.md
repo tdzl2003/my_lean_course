@@ -47,4 +47,30 @@
 > 我推荐先跳过另一本[Functional Programming in Lean](https://lean-lang.org/functional_programming_in_lean/)，这本书虽然包括了一些和证明有关的内容，但更主要是在讨论函数式编程相关的部分。如果是以学会证明为目标，并不一定要读懂这本书。
 > 如果你打算学习元编程，比如想要自定义tactic 或者做一些其他很酷的事情，那么学习FP是必要的，你可以先读上面这本书，再去读[Metaprogramming in Lean 4](https://leanprover-community.github.io/lean4-metaprogramming-book/main/01_intro.html)
 
-你可以在 [这里](./lessons/index.md) 关注我课程的更新进度，以及看看我补充的一些信息。
+你可以关注我课程的更新进度，以及看看我补充的一些信息。
+
+## 课程目录
+
+* [环境配置](./lessons/1_environment.md)
+* [Theorem Proving in Lean 4](./lessons/2_theorem_proving_in_lean4.md)
+    * 了解到为什么我们认为形式化了的证明就可以认为是正确的。
+    * 学习一些基础的证明方法，并尝试用于一些简单逻辑命题的证明。
+    * 了解到一些在证明过程中也会用到的Lean编程基础，比如枚举类型、结构体等等
+* Mathmatics in Lean 4
+* 具体领域的定义和定理熟悉
+    * 集合论
+    * 自然数
+    * 有理数，实数
+    * 抽象代数：群、环、域等
+    * 组合数学
+    * 高等数学
+    * 数论
+    * 概率论、测度论
+    * 几何
+    * 线性代数
+    * 多项式
+    * 计算理论
+    * 控制论
+    * 信息论
+    * 拓扑学
+    * （还有一些其他的，后续随更新补充）
